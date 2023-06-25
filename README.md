@@ -5,7 +5,7 @@ The flags we edit are contained in our [GitHub Repository](https://github.com/L8
 
 Why don't you give it a try?
 
-[Click here to download RCO!](https://github.com/vzns/Roblox-Client-Optimizer/blob/main/RCO2InstallerGui.exe?raw=true)
+[Click here to download RCO!](https://github.com/d0xr/Roblox-Client-Optimizer/blob/main/RCO2InstallerGui.exe?raw=true)
 
 Some things RCO currently does:
 
